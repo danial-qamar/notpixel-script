@@ -7,7 +7,7 @@ def print_banner():
     banner = """
 ╔══════════════════════════════════╗
 ║                                  ║
-║  Danial Qamar                      ║
+║  Danial Qamar                    ║
 ║  AUTO SCRIPT MASTER              ║
 ║                                  ║
 ║  JOIN TELEGRAM CHANNEL NOW!      ║
