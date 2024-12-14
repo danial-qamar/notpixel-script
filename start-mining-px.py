@@ -1,5 +1,198 @@
-# Obfuscated with PyObfuscate
-# https://www.github.com/htr-tech
-# Time : Fri Dec 13 19:58:31 2024
-# -------------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+import random
+import time
+import os
+import json
+import requests
+from termcolor import colored
+
+# Function to clear screen based on OS
+def clear_screen():
+    if os.name == 'nt':  # For Windows
+        os.system('cls')
+    else:  # For Linux/Unix/Mac
+        os.system('clear')
+
+# Function to generate random user agent
+def generate_user_agent():
+    os_types = ['Windows', 'Linux', 'iOS', 'Android']
+    versions = ['8', '9', '10', '11', '12', '13', '14']
+    devices = ['Samsung', 'Motorola', 'Xiaomi', 'Huawei', 'OnePlus']
+
+    selected_os = random.choice(os_types)
+
+    if selected_os == 'Android':
+        version = random.choice(versions)
+        device = random.choice(devices)
+        user_agent = f"Mozilla/5.0 (Linux; Android {version}; {device}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36"
+    else:
+        user_agent = f"Mozilla/5.0 ({selected_os} NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
+
+    return user_agent + str(random.randint(1000000, 9999999))
+
+# Function to print colored text
+def print_colored(text, color_code):
+    return f"\033[{color_code}m{text}\033[0m"
+
+# Color codes for customization
+green = "32"
+red = "31"
+yellow = "33"
+blue = "34"
+magenta = "35"
+cyan = "36"
+light_blue = "94"
+
+# Function to print banner with emojis
+def print_banner():
+    banner = """
+╔══════════════════════════════════╗
+║                                  ║
+║  Danial Qamar                    ║
+║  AUTO SCRIPT MASTER              ║
+║                                  ║
+║  JOIN TELEGRAM CHANNEL NOW!      ║
+║  https://t.me/danialqamar1       ║
+║  @danialqamar1 - OFFICIAL        ║
+║  CHANNEL                         ║
+║                                  ║
+║  FAST - RELIABLE - SECURE        ║
+║  SCRIPTS EXPERT                  ║
+║                                  ║
+╚══════════════════════════════════╝
+"""
+    print(print_colored(banner, green))
+    print(colored('CREATED BY : Danial Qamar: ⨭ ', 'yellow') + colored('https://t.me/danialqamar1', 'green'))
+    print(colored('JOIN OUR TELEGRAM CHANNEL ➤ ', 'white') + colored('https://t.me/danialqamar1', 'green'))
+    print(colored('LEARN HACKING HERE ➤ ', 'red') + colored('https://www.youtube.com', 'green'))
+    print(colored('DOWNLOAD MORE HACKS ➤ ', 'red') + colored('https://github.com/OptimalGrowYT', 'green'))
+    print(colored('BUY NODEPAY REFERAL HERE ➤ : ⨭ ', 'white') + colored('https://t.me/danialqamar1', 'green'))
+    print(colored('PASTE YOUR [QUERY] INTO QUERY_ID.TXT FILE AND PRESS START ', 'yellow'))
+    print(colored('                  [𝍖𝍖𝍖 NOTPIXEL ADS WATCHER 𝍖𝍖𝍖]                  ', 'green'))
+
+
+# Check for users.json file
+users_file = 'users.json'
+if not os.path.exists(users_file):
+    print(print_colored("❌ Error: No users found! Please save a Telegram ID by running the command: python adduser.py\nFollow the on-screen instructions to add users.\n", red))
+    exit()
+
+with open(users_file, 'r') as f:
+    users = json.load(f)
+
+if not users:
+    print(print_colored("❌ Error: Could not parse users.json!\n", red))
+    exit()
+
+user_points = {user_id: 0 for user_id in users}
+
+# Function to generate random chat instance
+def generate_chat_instance():
+    return str(random.randint(10000000000000, 99999999999999))
+
+# Function to make API request
+def make_api_request(user_id, tg_id):
+    url = f"https://api.adsgram.ai/adv?blockId=4853&tg_id={tg_id}&tg_platform=android&platform=Linux%20aarch64&language=en&chat_type=sender&chat_instance={generate_chat_instance()}&top_domain=app.notpx.app"
+
+    user_agent = generate_user_agent()
+    base_url = "https://app.notpx.app/"
+
+    headers = {
+        'Host': 'api.adsgram.ai',
+        'Connection': 'keep-alive',
+        'Cache-Control': 'max-age=0',
+        'sec-ch-ua-platform': '"Android"',
+        "User-Agent": user_agent,
+        'sec-ch-ua': '"Android WebView";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+        'sec-ch-ua-mobile': '?1',
+        'Accept': '*/*',
+        'Origin': base_url,
+        'X-Requested-With': 'org.telegram.messenger',
+        'Sec-Fetch-Site': 'cross-site',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Dest': 'empty',
+        "Referer": base_url,
+        'Accept-Encoding': 'gzip, deflate, br, zstd',
+        'Accept-Language': 'en,en-US;q=0.9'
+    }
+
+    response = requests.get(url, headers=headers)
+
+    return response.text, response.status_code, headers
+
+# Function to extract reward value
+def extract_reward(response):
+    try:
+        data = json.loads(response)  # Parse the string response to JSON
+        if 'banner' in data and 'trackings' in data['banner']:
+            for tracking in data['banner']['trackings']:
+                if tracking['name'] == 'reward':
+                    return tracking['value']
+    except json.JSONDecodeError:
+        print(print_colored("❌ [ ERROR ] Failed to decode JSON response.", red))
+    return None
+
+total_points = 0
+first_run = True
+
+while True:
+    clear_screen()
+    print_banner()
+
+    if not first_run:
+        for user_id, user_data in users.items():
+            print(f"\n🟩 ➡️ {user_id} +{user_points[user_id]} PX")
+
+        print(f"\n🏅 Total PX Earned [ +{total_points} ]\n\n")
+
+    rewards = {}
+    headers = {}
+
+    for user_id, user_data in users.items():
+        tg_id = user_data['tg_id']
+
+        print(print_colored("🔄 [ INFO ] Starting NOT PIXEL Engine", cyan))
+        print(print_colored(f"⚙️ [ PROCESS ] ⏳ Injecting 💓 SUBSCRIBE @danialqamar1 | {user_id} ...", light_blue))
+
+        time.sleep(3)
+
+        response, http_code, req_headers = make_api_request(user_id, tg_id)
+
+        if http_code == 200:
+            reward = extract_reward(response)
+            if reward:
+                rewards[user_id] = reward
+                headers[user_id] = req_headers
+                print(print_colored(f"✅ [ SUCCESS ] ☑️ Injected to {user_id}.", green))
+            else:
+                print(print_colored("❌ [ ERROR ] Ads watching limit reached.", red))
+                continue
+        elif http_code == 403:
+            print(print_colored("❌ [ ERROR ] Seems like your IP address is banned", red))
+            exit()
+        else:
+            if http_code == 400 and 'block_error' in response:
+                print(print_colored("⚠️ [ ERROR ] Ads Block error - Ignore it, will be fixed automatically", red))
+                continue
+            print(print_colored(f"❌ [ ERROR ] HTTP Error: {http_code}", red))
+            continue
+
+    for i in range(10, 0, -1):
+        print(f"\r⏳ ➡️ Cooldown {i} seconds left...", end="")
+        time.sleep(1)
+    print()
+
+    for user_id, reward in rewards.items():
+        print(print_colored(f"⏳ [ PROCESS ] Injecting 💓 SUBSCRIBE @danialqamar1 {user_id}", yellow))
+
+        req_headers = headers[user_id]
+
+        response = requests.get(reward, headers=req_headers)
+
+        if response.status_code == 200:
+            total_points += 16
+            user_points[user_id] += 16
+            print(print_colored(f"✅ [ SUCCESS ] ++ {user_id} +16 PX", green))
+        else:
+            print(print_colored(f"❌ [ ERROR ] Failed to inject for {user_id}. HTTP Code: {response.status_code}", red))
+
+    first_run = False
