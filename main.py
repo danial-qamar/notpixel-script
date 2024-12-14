@@ -20,11 +20,11 @@ def print_banner():
 ╚══════════════════════════════════╝
 """
     print(Fore.MAGENTA+ banner)
-    print(Fore.YELLOW + 'CREATED BY : Danial Qamar: ⨭ ' + Fore.GREEN + 'https://t.me/AirdropScript6')
-    print(Fore.WHITE + 'JOIN OUR TELEGRAM CHANNEL ➤ ' + Fore.GREEN + 'https://t.me/AirdropScript6')
-    print(Fore.RED + 'LEARN HACKING HERE ➤ ' + Fore.GREEN + 'https://www.youtube.com/@ZainArain279/videos')
-    print(Fore.RED + 'DOWNLOAD MORE HACKS ➤ ' + Fore.GREEN + 'https://github.com/@ZainArain279')
-    print(Fore.WHITE + 'BUY NODEPAY REFERAL HERE ➤ : ⨭ ' + Fore.GREEN + 'https://t.me/AirdropScript6')
+    print(Fore.YELLOW + 'CREATED BY : Danial Qamar: ⨭ ' + Fore.GREEN + 'https://t.me/danialqamar1')
+    print(Fore.WHITE + 'JOIN OUR TELEGRAM CHANNEL ➤ ' + Fore.GREEN + 'https://t.me/danialqamar1')
+    print(Fore.RED + 'LEARN HACKING HERE ➤ ' + Fore.GREEN + 'https://www.youtube.com')
+    print(Fore.RED + 'DOWNLOAD MORE HACKS ➤ ' + Fore.GREEN + 'https://github.com/danial-qamar')
+    print(Fore.WHITE + 'BUY NODEPAY REFERAL HERE ➤ : ⨭ ' + Fore.GREEN + 'https://t.me/danialqamar1')
     print(Fore.YELLOW + '⚡it was Paid but i gifted Free so please subscribe my channels ⚡ ')
     print(Fore.GREEN + '                  [𝍖𝍖𝍖 NOTPIXEL ADS WATCHER 𝍖𝍖𝍖]                  ')
 
@@ -61,8 +61,8 @@ def run_zain():
 def open_channels():
     print(Fore.GREEN + "\nAttempting to open Telegram and YouTube channels...")
     # Open Telegram channel
-    telegram_url = "https://t.me/AirdropScript6"
-    youtube_url = "https://www.youtube.com/@ZainArain279/videos"
+    telegram_url = "https://t.me/danialqamar1"
+    youtube_url = "https://www.youtube.com"
     
     try:
         # Attempt to open the URLs
