@@ -5,17 +5,13 @@ from colorama import Fore, Back, Style, init
 
 def print_banner():
     banner = """
-░▀▀█░█▀█░▀█▀░█▀█
-░▄▀░░█▀█░░█░░█░█
-░▀▀▀░▀░▀░▀▀▀░▀░▀
 ╔══════════════════════════════════╗
 ║                                  ║
-║  ZAIN ARAIN                      ║
+║  Danial Qamar                      ║
 ║  AUTO SCRIPT MASTER              ║
 ║                                  ║
 ║  JOIN TELEGRAM CHANNEL NOW!      ║
-║  https://t.me/AirdropScript6              ║
-║  @AirdropScript6 - OFFICIAL      ║
+║  Wait for update.- OFFICIAL      ║
 ║  CHANNEL                         ║
 ║                                  ║
 ║  FAST - RELIABLE - SECURE        ║
@@ -24,7 +20,7 @@ def print_banner():
 ╚══════════════════════════════════╝
 """
     print(Fore.MAGENTA+ banner)
-    print(Fore.YELLOW + 'CREATED BY : Zain Arain: ⨭ ' + Fore.GREEN + 'https://t.me/AirdropScript6')
+    print(Fore.YELLOW + 'CREATED BY : Danial Qamar: ⨭ ' + Fore.GREEN + 'https://t.me/AirdropScript6')
     print(Fore.WHITE + 'JOIN OUR TELEGRAM CHANNEL ➤ ' + Fore.GREEN + 'https://t.me/AirdropScript6')
     print(Fore.RED + 'LEARN HACKING HERE ➤ ' + Fore.GREEN + 'https://www.youtube.com/@ZainArain279/videos')
     print(Fore.RED + 'DOWNLOAD MORE HACKS ➤ ' + Fore.GREEN + 'https://github.com/@ZainArain279')
