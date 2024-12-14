@@ -1,4 +1,3 @@
-windows-curses
 aiocfscrape
 aiohttp
 aiohttp-proxy
@@ -28,6 +27,7 @@ six
 soupsieve
 TgCrypto
 typing_extensions
+termcolor
 tzdata
 tzlocal
 websockets
